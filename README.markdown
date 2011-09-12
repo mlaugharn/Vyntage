@@ -5,3 +5,9 @@
 Vyntage will create a file named `vyntage_filename.jpg`.
 
 The `-g` flag enables glitching.
+
+![A white Russian](the_dude.jpg)
+
+becomes
+
+![Or a tight Russian](vyntage_the_dude.jpg)
